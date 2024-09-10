@@ -1,3 +1,7 @@
+@font-face {
+    font-family: roboto;
+    src: url(Roboto-Medium.woff2);
+}
 *{
     margin: 0;
     padding: 0;
